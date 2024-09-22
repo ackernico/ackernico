@@ -1,8 +1,4 @@
-não sei como usa isso 
-
-to tentando descobrir
-
-HelloWorld("printf");
+poggers!
 
 <!---
 ackernico/ackernico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
